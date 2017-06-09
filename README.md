@@ -4,6 +4,7 @@ The port is certainly not perfect because Visual Studio's text editor does not s
 
 ![Syntax Demo](http://i.imgur.com/bo88PYQ.png "Syntax Demo")
 
+Using [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) as editor font 
 Some styles may differ in screenshot due to stylings enabled by ReSharper
 
 ### Directions
