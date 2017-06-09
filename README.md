@@ -16,4 +16,4 @@ Some styles may differ in screenshot due to stylings enabled by ReSharper
 
 ### Further Editing
 * To further edit these settings go to **Tools > Options > Environment > Fonts and Colors**
-* Use [TmTheme Editor](http://tmtheme-editor.herokuapp.com) to get a nice layout of all of the syntax colors, just upload the facebook.tmTheme file
+* Use [TmTheme Editor](http://tmtheme-editor.herokuapp.com) to get a nice layout of all of the syntax colors, just upload the Facebook.tmTheme file
